@@ -1,0 +1,12 @@
+Good afternoon my name is Morena Lumumba Rethabisitswe Mahlatsi and my student number is 10449223.
+
+The purpose for the Hydration Haven App is to keep daily records of the amount of water one consumes in liters. it tracks down the amount of water the user drinks in an average week of 7 days. The application captures the specific day, morning intake in liters of the day, afternoon intake in liters and hydration notes.
+These are the following codes i used:
+The "Text View" is a wedged on android studio that is seen in every application we use. the widget is used to display any form of text in the application, in our case it is used to display the heading text that welcomes the user to the application when they first click on it and the app opens. You can also add customer styling, in our case we have added a unique font that is presented in bold and in a different color. We have resized it to a suitable size that’s visible to users. The Image View plays an important role in the android studio as it displays an imagine in the app that is visible for users, in our case we used the image view to display our images that correlate to the y app which includes the users pet and all the actions it’s supposed to commit.
+
+The codes used in this application include.
+“Val” -in the android studio application, the variable is read only which means you can only read or access the value of the variable. In our case we attached the variable to all the components we are going to be using which is the text view, image button, text view result and the general buttons. none of these variables can be changed.
+“findViewById” -in the android studio application, refers to the method that finds the view by the Id that’s been given. Here “R.id.textview” refers to the resource ID of the view you want to allocate in this case which is the “textView”. ‘findViewById()’ provides a safe and much efficient way of referencing views in your files.
+“R.id” -in the android studio application, this contains resource Id’s for all the views and other resources you have identified in your project. Using the Id attribute generates unique and different integer values for each of the ids and stores them in the “R.id” class.
+
+“setOnClickListener()” -in the android studio application , this handles user interactions such as clicks. Inside the ‘onClick()’ method, you define the actions you want to perform when the button is clicked.
